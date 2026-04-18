@@ -3,7 +3,7 @@
 Application d'estimation de prix de voiture par régression linéaire multiple, 
 assistée par intelligence artificielle (Claude API).
 
-👉 **[Demo live](https://kami-koba-priceml.streamlit.app)**
+👉 **[Demo live]([https://kami-koba-priceml.streamlit.app](https://priceml-q8bmdoldejfvjvteqqiktf.streamlit.app/))**
 
 ## Contexte
 
